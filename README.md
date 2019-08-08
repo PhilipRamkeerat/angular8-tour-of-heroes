@@ -1,6 +1,7 @@
 # AngularTourOfHeroes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.0.
+This is a complete example of Tour of Heroes APP in new Angular version
 
 ## Development server
 
